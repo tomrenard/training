@@ -35,9 +35,9 @@
 | Day | Session | Power / Zone | Time |
 | --- | --- | --- | --- |
 | Mon | Rest | — | — |
-| Tue | Sweet Spot | 3×10 min @ 245 W (SS) | 1:15 |
+| Tue | Sweet Spot | 3×10 min @ 235 W (SS) | 1:15 |
 | Wed | Endurance | 160–195 W (Z2) | 1:30 |
-| Thu | Tempo | 2×20 min @ 220–225 W (Z3) | 1:30 |
+| Thu | Tempo | 2×20 min @ 220 W (Z3) | 1:30 |
 | Fri | Recovery | <150 W (Z1) | 0:45 |
 | Sat | Long ride | 160–195 W (Z2) | 2:15 |
 | Sun | Endurance | 165–195 W (Z2) | 1:30 |
