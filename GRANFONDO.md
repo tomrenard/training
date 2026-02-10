@@ -87,9 +87,9 @@
 | Day | Session | Power / Zone | Time |
 |-----|--------|--------------|------|
 | Mon | Rest | — | — |
-| Tue | Threshold | 2×20 min @ 270–280 W (Z4) | 1:45 |
-| Wed | Endurance | 170–200 W (Z2) | 1:45 |
-| Thu | VO2 Max | 5×3 min @ 305–315 W (Z5) | 1:15 |
+| Tue | Easy spin | <150–170 W (Z1–low Z2) | 1:45 |
+| Wed | Threshold | 3×12–15 min @ 270–280 W (Z4) | 1:45 |
+| Thu | VO2 Max | 4×3 min @ 305–315 W (Z5) | 1:15 |
 | Fri | Recovery | <150 W (Z1) | 0:45 |
 | Sat | Long ride | Z2 + 2×20 min @ 220–230 W (Z3) | 3:15 |
 | Sun | Endurance | 170–200 W (Z2) | 1:30 |
